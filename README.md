@@ -3,7 +3,7 @@ Google chrome extension to WindowSnap (https://window-swap.com/)
 
 Installation: 
 
-A. Get zip file (window-swap-extension.zip):
+A. Get zip file (window_swap_extension.zip):
 
   i. Download and unzip file
   
